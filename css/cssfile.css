@@ -522,7 +522,7 @@
   #rtitleb,
   #rrole,
   #rbutton {
-    padding: 15px;
+    padding: 5px;
   }
 
   #fyrpic,
@@ -545,10 +545,6 @@
     padding: 15px;
   }
 
-  section {
-      padding: 60px 0;
-  }
-  
   #team .card {
       border: none;
       background: #eee;
