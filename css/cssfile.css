@@ -519,9 +519,12 @@
       border-color: #539e33;
   }
 
-  #rtitleb,
-  #rrole,
   #rbutton {
+    font-size: 0.875em;
+  }
+
+  #rtitleb,
+  #rrole {
     padding: 5px;
   }
 
