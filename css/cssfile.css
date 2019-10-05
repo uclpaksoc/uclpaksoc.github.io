@@ -396,6 +396,19 @@
     box-shadow: none;
   }
 
+  #image-0,
+  #image-1 {
+    margin-top: 2em;
+  }
+
+  #image-0,
+  #image-1,
+  #image-2,
+  #image-3,
+  #image-4,
+  #image-5 {
+    padding-top: 4em;
+  }
 
   /*---------------------------------------
       WORK             
